@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MVVMHiltKotlin</string>
+    <string name="person_list">Person List</string>
+
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+
+    <string name="request_declined">Request has been declined.Changed your mind? Accept it &amp; why not take it further.</string>
+    <string name="request_accepted">Hello, we liked your profile too.Let’s take it further ;).</string>
+
+</resources>
